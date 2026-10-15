@@ -1,8 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I build web apps, Minecraft tools, and Discord bots as **raincakecat**.
-
-My projects focus on helping people share knowledge, manage communities, and improve their in-game experience.
+I Enjoy building web apps, Minecraft tools, and Discord bots as **raincakecat**.
 
 ## What I'm working on
 
