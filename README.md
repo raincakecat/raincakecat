@@ -2,6 +2,33 @@
 
 I Enjoy building web apps, Minecraft tools, and Discord bots as **raincakecat**.
 
+## Featured project: RestrictTiers
+
+**Minecraft tier-list restriction information across the web, Discord, and in-game tools.**
+
+RestrictTiers brings player restriction lookups into one connected project. It gives players and community staff a way to check restriction information, view active and past records, and open a player's website profile from Minecraft.
+
+### One project, several ways to use it
+
+| Component | What it provides |
+| --- | --- |
+| **Website** | A central place to look up players and browse their active and past restriction records. |
+| **Discord tools** | Restriction lookup commands and record information within Discord communities. |
+| **Fabric client mod** | On-demand checks from your own Minecraft client, without requiring a server plugin. |
+| **Paper server plugin** | In-game lookup commands for players on a Paper server, without requiring the client mod. |
+
+### In-game lookups
+
+- Run `/check <IGN or UUID>` or `/restrictcheck <IGN or UUID>` to request a lookup.
+- See restriction counts, open the linked website profile, and browse the returned details.
+- Results go to the person running the command; they are not broadcast to the server.
+- Lookups happen when requested. Browsing cached detail pages does not issue another lookup.
+- Use the client mod or the server plugin independently. If both are installed, the client commands run locally; `/restricttiers:check` explicitly calls the server plugin.
+
+The public Minecraft integrations connect to the RestrictTiers website. The core service is maintained separately in a private repository.
+
+**[Visit RestrictTiers](https://restricttiers.raincakecat.com)** · **[Fabric mod & installation](https://github.com/raincakecat/RestrictTiers-Mod)** · **[Paper plugin & installation](https://github.com/raincakecat/RestrictTiers-Plugin)**
+
 ## What I'm working on
 
 ### ClassParlor · In progress
@@ -25,12 +52,6 @@ The ideas I'm developing include:
 - **Private school workspaces:** invitations, class access, and roles keep each group's materials within its own community.
 
 These are the direction and goals for the project as it develops. The focus is on useful shared notes, traceable sources, and a calm, approachable interface.
-
-### RestrictTiers
-
-A Minecraft tier-list restriction lookup project, with a website, Discord tools, a Fabric client mod, and a Paper server plugin. Players can look up restriction information and view active and past records.
-
-[Website](https://restricttiers.raincakecat.com) · [Fabric mod](https://github.com/raincakecat/RestrictTiers-Mod) · [Paper plugin](https://github.com/raincakecat/RestrictTiers-Plugin)
 
 ## More projects
 
