@@ -14,7 +14,7 @@ The planned structure runs from schools and classes down to individual lesson se
 
 ### Commonroom / StudyHub · The idea behind ClassParlor
 
-Commonroom / StudyHub began as a private space for my class to collect learning materials and turn them into organised, searchable notes. ClassParlor builds on that foundation, with the aim of making shared class notebooks available to more schools and study groups.
+Commonroom / StudyHub began as a private space I built for my class to collect learning materials and using a self-hosted LLM, turn them into organized, searchable notes. ClassParlor builds on that foundation, with the aim of making shared class notebooks available to more schools and study groups.
 
 The ideas I'm developing include:
 
