@@ -12,6 +12,20 @@ I'm developing ClassParlor, a collaborative classroom platform growing out of my
 
 The planned structure runs from schools and classes down to individual lesson sessions, with access managed within each school workspace.
 
+### Commonroom / StudyHub · The idea behind ClassParlor
+
+Commonroom / StudyHub began as a private space for my class to collect learning materials and turn them into organised, searchable notes. ClassParlor builds on that foundation, with the aim of making shared class notebooks available to more schools and study groups.
+
+The ideas I'm developing include:
+
+- **One shared notebook per class:** classmates contribute photos, PDFs, documents, and notes to the same collection.
+- **A clear lesson structure:** School → Year → Term → Class → Session, so materials stay connected to the lesson they belong to.
+- **Help turning uploads into study material:** text extraction, handwriting recognition, and AI-assisted notes and summaries, with links back to the original sources for checking.
+- **Collaborative editing with history:** class members can improve shared notes, see who changed what, and restore earlier revisions.
+- **Private school workspaces:** invitations, class access, and roles keep each group's materials within its own community.
+
+These are the direction and goals for the project as it develops. The focus is on useful shared notes, traceable sources, and a calm, approachable interface.
+
 ### RestrictTiers
 
 A Minecraft tier-list restriction lookup project, with a website, Discord tools, a Fabric client mod, and a Paper server plugin. Players can look up restriction information and view active and past records.
